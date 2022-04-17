@@ -1,0 +1,51 @@
+{
+  "name": "Cattos #3004",
+  "description": "Cattos is an NFT collection that is based on Smartbch ( BCH ). It was created by Nakamotobch. These punks can be used as a form of digital asset and they can also be used to represent various ideas or concepts.",
+  "image": "https://cattos.mypinata.cloud/ipfs/QmVMKacfoVytkSf1w3wbgxDWgFXVdZMHMAzdV7tnAnfaZf/3004.png",
+  "dna": "bb2b0e375c6925e80af8b36c70c707c2d49a431b",
+  "edition": 3004,
+  "date": 1639496613831,
+  "external_url": "https://cattos.cash",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "tee",
+      "value": "red"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_lightbrown"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "NormalYellow"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "White"
+    },
+    {
+      "trait_type": "headgear",
+      "value": "cry"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "White"
+    },
+    {
+      "trait_type": "beard",
+      "value": "Simple"
+    },
+    {
+      "trait_type": "extra",
+      "value": "Cig"
+    }
+  ]
+}
